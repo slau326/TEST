@@ -12,3 +12,5 @@ not main hobbies
 lets add new hobbies
 8) journaling 
 9) touch typing
+
+10) i have to create habit trackers for the habits
